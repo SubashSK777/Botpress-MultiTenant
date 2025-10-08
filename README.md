@@ -1,5 +1,5 @@
 ---
-title: HunyuanImage-3.0
+title: Boss-Img-Generator v1
 emoji: 📊
 colorFrom: purple
 colorTo: yellow
@@ -11,5 +11,6 @@ tags:
 - anycoder
 hf_oauth: true
 ---
+
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
