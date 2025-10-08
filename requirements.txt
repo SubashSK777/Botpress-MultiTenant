@@ -1,0 +1,4 @@
+gradio
+huggingface-hub
+Pillow
+python-dotenv
